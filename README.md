@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rails Starter App
 ===========
 
@@ -17,3 +18,9 @@ This is basically a combination of https://github.com/diowa/ruby2-rails4-bootstr
 ```Gemfile``` also contains a set of useful gems for performance, security, api building...
 
 Pull requests for cleanups, fixes and improvements are welcome.
+=======
+startup_demo
+============
+
+Startup app with oauth login for facebook, twitter, and google + postgres + bootstrap
+>>>>>>> 20c111438295e7aa1373958963e719d13eb61868
