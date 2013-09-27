@@ -9,7 +9,11 @@ gem 'unicorn'
 
 gem 'omniauth'
 gem 'omniauth-twitter'
+gem 'omniauth-facebook'
+gem 'omniauth-google-oauth2'
 gem 'omniauth-github'
+gem 'omniauth-google'
+gem 'figaro'
 
 # Multi-environment configuration
 # gem 'simpleconfig'
